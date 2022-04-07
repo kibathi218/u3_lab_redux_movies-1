@@ -1,4 +1,5 @@
 import './styles/App.css'
+import Movies from './components/Movies'
 
 const App = () => {
   
